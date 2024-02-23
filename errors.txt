@@ -1,0 +1,2 @@
+company logo loading can be done in lazy loading rather than eager loading
+An extra eye botton in password
